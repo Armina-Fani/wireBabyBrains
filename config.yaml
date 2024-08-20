@@ -1,6 +1,6 @@
 MONGOHOST: "arctrdcn018.rs.gsu.edu"
-DBNAME: "babywire_ageExperiment"
-SWAP_CAP: 10000
+DBNAME: "babywire1m"
+SWAP_CAP: 500
 
 # Change if you know what you're doing
 SAMPLE: ["data", "label"]
